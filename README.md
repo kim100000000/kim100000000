@@ -41,16 +41,16 @@
 
 <br><br>
 
-<!-- <div align="center">
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🧑‍💻 Contact me</h2>
   <br>
-  <a href="https://velog.io/@taedibear/posts" target="_blank">
+  <!-- <a href="https://velog.io/@taedibear/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
-  </a>
-  <a href="https://www.notion.so/501e6d33542b836c96e101495e89c154?source=copy_link" target="_blank">
+  </a> -->
+  <a href="https://silken-homburg-f66.notion.site/897c68c0734282e5a43f810c6783cae0?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </a>
   <a href="mailto:kst980510@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
-</div> -->
+</div>
